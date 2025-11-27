@@ -20,7 +20,7 @@
     "eject": "react-scripts eject",
     "dev": "vite --host",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -r https://github.com/EdMasterdev/Encoders.git"
   },
   "eslintConfig": {
     "extends": [
